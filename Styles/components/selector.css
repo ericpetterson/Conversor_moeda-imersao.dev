@@ -1,0 +1,11 @@
+.selector {
+    background-color: var(--colors-background);
+    color: var(--colors-text);
+    font: inherit;
+    padding: var(--gap-small);
+    border: 0.2rem solid var(--colors-text);
+    width: 100%;
+    cursor: pointer;
+    box-sizing: border-box;
+    text-align: center;
+}

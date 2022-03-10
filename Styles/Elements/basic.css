@@ -1,5 +1,9 @@
+html,body{
+    font-size: 10px;
+}
+
 body {
     background-color: var(--colors-background);
     color: var(--colors-text);
-    
+    font-family: 'Roboto Serif', serif;
 }
